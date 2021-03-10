@@ -7,7 +7,7 @@ Yesterday we built a Node/Express API only backend app that serves JSON data. To
 ## Solutions
 
 - Muse App front-end solution that uses hooks is on a `solution` branch in this repo.
-- [Muse App Express Backend Solution Branch](https://git.generalassemb.ly/jdr-0622/muse-express-api-backend-lesson/tree/solution)
+- [Muse App Express Backend Solution Branch](https://git.generalassemb.ly/john-deere-sei-7/muse-express-api-backend-lesson/tree/solution)
 - [Heroku Deployed Muse Express API Backend](https://muse-backend.herokuapp.com/)
 - [Heroku Deployed Muse React Frontend](https://muse-react-frontend.herokuapp.com/)
 
@@ -29,7 +29,7 @@ Yesterday we built a Node/Express API only backend app that serves JSON data. To
 
 ## Add React Router
 
-[Follow the set-up from the React Router lesson](https://git.generalassemb.ly/jdr-0622/react-router#we-do-react-router-setup-10-min--040)
+[Follow the set-up from the React Router lesson](https://git.generalassemb.ly/john-deere-sei-7/react-router#we-do-react-router-setup-10-min--040)
 
 Create routes, links, and components for:
 
@@ -87,4 +87,4 @@ This component should...
 
 ## Additional Resources
 
-- [Heroku React Deploy](https://git.generalassemb.ly/jdr-0622/react-heroku-deployment)
+- [Heroku React Deploy](https://git.generalassemb.ly/john-deere-sei-7/react-heroku-deployment)
